@@ -15,7 +15,7 @@
 
 ## 🛠 3. 기술 스택
 * **Language**: `Python`
-* **Libraries**: `Pandas`, `Matplotlib`, `Koreanize-matplotlib`
+* **Libraries**: `Pandas`, `Matplotlib`
 
 ## 🔍 4. 주요 분석 결과 및 인사이트
 
